@@ -1,0 +1,20 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="24" y1="20" x2="228" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D4541"/>
+      <stop offset="1" stop-color="#042321"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="61" y1="52" x2="195" y2="196" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3D57A"/>
+      <stop offset="0.55" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#8F6F18"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="56" fill="url(#bg)"/>
+  <rect x="16.5" y="16.5" width="223" height="223" rx="55.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <path d="M74 188L120 67.5H145.5L102.5 188H74Z" fill="url(#gold)"/>
+  <path d="M129.5 127L173.5 188H140.5L108 143.5L129.5 127Z" fill="url(#gold)" opacity="0.98"/>
+  <path d="M141.5 116L178 68H210L159 133.5L141.5 116Z" fill="url(#gold)" opacity="0.96"/>
+  <path d="M59 206H197" stroke="url(#gold)" stroke-width="8" stroke-linecap="round" opacity="0.55"/>
+  <path d="M43 128C43 81.056 81.056 43 128 43C174.944 43 213 81.056 213 128" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" opacity="0.38"/>
+</svg>
